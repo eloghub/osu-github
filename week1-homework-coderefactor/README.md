@@ -24,14 +24,17 @@ Grading Requirements:
 
 NOTES/CHALLENGES:
 
-+line 31 (HTML) - Missing div id to make screen jump to specific section of webpage when line 17 (HTML) is clicked on
-
-+My primary goal was to make sure all images on the webpage had alt texts and titles
-I made this possible through the use of alt attributes(?) in the img tags and with title attributes that I learned from a classmate in breakout rooms.
++lines 32-68 and 70-103 (HTML) - My primary goal was to make sure all images on the webpage had alt texts and titles
+I made this possible through the use of alt attributes in the img tags and with title attributes that I learned from a classmate in breakout rooms.
 I also separated img attributes line by line in HTML to make them easier for developers to read
 
-+line 8 (^) - 
++line 7 (HTML) - To make the <title> more descriptive, I changed it from "Horiseon" to "Horiseon Social Solution Services, Inc.", to match with the webpage's footer
 
++line 33 (HTML) - Missing div id to make screen jump to specific section of webpage when line 17 (HTML) is clicked on
+
++lines 11-15 (CSS) and 12 (HTML) - Added a container for the header elements so that the background color will cover the <ul> when the browser is minimized
+
++lines 143-144 (CSS) - Commented bit about creating flex boxes to contain the 3 separate <div id>s, because I struggled with that
 
 SCREENSHOT:
 
