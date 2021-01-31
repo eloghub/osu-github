@@ -34,7 +34,7 @@ I also separated img attributes line by line in HTML to make them easier for dev
 
 +lines 11-15 (CSS) and 12 (HTML) - Added a container for the header elements so that the background color will cover the <ul> when the browser is minimized
 
-+lines 143-144 (CSS) - Commented bit about creating flex boxes to contain the 3 separate <div id>s, because I struggled with that
++lines 143-144 (CSS) - Commented bit about creating flex boxes to contain the 3 separate <id>s, because I struggled with that
 
 SCREENSHOT:
 
